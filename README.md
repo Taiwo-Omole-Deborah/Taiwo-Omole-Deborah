@@ -1,7 +1,7 @@
 👋 Hi, I’m @Taiwo-Omole-Deborah
 👀 I’m interested in volunteering and working with real life projects
-🌱 I’m currently learning 
-💞️ I’m looking to collaborate on responsive projects
+🌱 I’m currently learning Frontend programming.
+💞️ I’m looking forward to collaborate on responsive projects.
 📫 Reach me via gmail at debbyomole23@gmail.com
 ⚡ Fun fact: I love to help with solving problems!
 
